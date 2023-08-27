@@ -1,0 +1,18 @@
+virtual dom and real dom
+jo tree structure m hota h usko real bolte hota
+package.json or package.logjson
+npx create react .app myapp
+ 
+ public m 2 file milegi
+ index.html
+ favicon.ico
+
+ src ke folder m humko index.js milega
+
+ root.render humko show karata h
+ xml and html
+ xml wahi likhega jitne ki humko jarurat ho
+
+props:-
+1) props is a way to pass data from parent component to child components
+2) props are read only
